@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vx jinian85400
+- 📫 How to reach me vx jinian085400
 
 <!---
 Jinian085400/Jinian085400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
